@@ -1,0 +1,21 @@
+O que é versionamento de Código?
+Sistemas de controle de versão são utilizados para conrolar as versões de um arquivo ao longo
+do tempo:
+- Registra o Historico de atualizações de um arquivo
+- Gerencia quais foram as alterações , a data, autor, etc;
+- Organização, controle e segurança.
+
+Dentre os sistemas de controle de versão temo:
+- VCS Centralizado (CVCS)
+
+exemplos: CVS, Subversion
+
+- VCS Distribuido (DVCS)
+
+exemplos: Git, mercurial
+
+°Cada clone é um backup
+°Possibilita um fluxo de trabalho flexivel
+°Possibilidade de trabalhar sem acesso a rede
+°Ele clona o repositorio completo , o que inclui o histórico de versões
+

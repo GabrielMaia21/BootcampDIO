@@ -1,0 +1,31 @@
+O que é o Git Hub?
+
+ Plataforma de hospedagem de código aberto para controle de versão Git, e colaboração
+ °Comunidade Ativa
+ °Utilizado Mundialmente
+ ---------------------------------------------------------------------------------------------
+ Criando e Clonando repositorios!
+
+Existem 2 formas de obter um repositório git  na sua máquina:
+ °Transformando um diretório local que não está sob controle de versão, em um repositório Git
+ °Clonando um repositório Git existente
+
+Etapas:
+1° - Criar uma pasta que desejamos usar para transformar no repositorio git
+2° - Utilizando o terminal digitar "git init"
+3° - Utilizando o terminal digitar "git clone" + link do repositorio
+---------------------------------------------------------------------------------------------
+Enviando Alterações para o repositorio Remoto:
+
+Etapas:
+1° - Utilizando o terminal digitar "git init"
+2° - Utilizando o terminal digitar "git remote add origin " + link do repositorio
+3° - Caso não esteja na branch main utlizar o terminal e digitar "git branch -M main"
+4° - Utilizando o terminal digitar "git push -u origin main "
+---------------------------------------------------------------------------------------------
+Trabalhando com Branchs!
+
+-De maneira simplista,uma branch é uma ramificação do seu projeto.
+-É um ponteiro movel para uma commit no historico do repositorio.
+-Quando vc cria um nova brach  a partir de outra existente , a nova se inicia apontando para
+o mesmo commit que estava quando foi criada.

@@ -1,0 +1,18 @@
+O que é o git?
+
+Sistema de controle de versão distribuido
+Gratuito e de codigo aberto
+Ramificações(branching) e fusões (merging) eficientes
+Leve e rápido
+
+Git clone:
+--> clona um repositorio GIT existente para um novo dirétorio (pasta) local.
+
+Git commit:
+--> Grava as alterações no repositório
+
+Git pull:
+--> "puxa" as alterações do repositório remoto para o local (busca e mescla)
+
+Git push:
+--> "empurra" as alterações do repositorio local para o remoto
